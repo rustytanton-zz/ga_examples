@@ -12,7 +12,9 @@ Instructions
 2. Init submodules to download [GeSHi](https://github.com/benji07/GeSHi):
 
 `cd ga_examples
+
 git submodules init
+
 git submodules update`
 
 3. Open in a browser:
