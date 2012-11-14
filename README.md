@@ -1,7 +1,7 @@
 Code Examples from "Advanced Google Analytics Integration with Wordpress"
 =========================================================================
 
-Presented Jan. 9, 2010 at [WordCamp Atlanta](http://atlanta.wordcamp.org) by [Rusty Tanton](mailto:rusty.tanton@gmail.com). These code examples complemented a slide deck during the presentation. 
+Presented Jan. 9, 2009 at [WordCamp Atlanta](http://atlanta.wordcamp.org) by [Rusty Tanton](mailto:rusty.tanton@gmail.com). These code examples complemented a slide deck during the presentation. 
 
 Related materials:
 * [Video of presentation](http://vimeo.com/8651024)
