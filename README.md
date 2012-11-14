@@ -7,17 +7,17 @@ Instructions
 ------------
 1. Clone repo to a server with php enabled:
 
-    git clone https://github.com/rustytanton/ga_examples.git
+`git clone https://github.com/rustytanton/ga_examples.git`
 
 2. Init submodules to download [GeSHi](https://github.com/benji07/GeSHi):
 
-    cd ga_examples
-    git submodules init
-    git submodules update
+`cd ga_examples
+git submodules init
+git submodules update`
 
 3. Open in a browser:
 
-    http://host/path/ga_examples
+`http://host/path/ga_examples`
 
 Related materials
 -----------------
