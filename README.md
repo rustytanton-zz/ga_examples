@@ -5,21 +5,19 @@ Presented Jan. 9, 2009 at [WordCamp Atlanta](http://atlanta.wordcamp.org) by [Ru
 
 Instructions
 ------------
-1. Clone repo to a server with php enabled:
+1. 	Clone repo to a server with php enabled:
 
-`git clone https://github.com/rustytanton/ga_examples.git`
+	`git clone https://github.com/rustytanton/ga_examples.git`
 
-2. Init submodules to download [GeSHi](https://github.com/benji07/GeSHi):
+2.	Init submodules to download [GeSHi](https://github.com/benji07/GeSHi):
 
-`cd ga_examples
+	`cd ga_examples<br />
+	git submodules init<br />
+	git submodules update`
 
-git submodules init
+3.	Open in a browser:
 
-git submodules update`
-
-3. Open in a browser:
-
-`http://host/path/ga_examples`
+	`http://host/path/ga_examples`
 
 Related materials
 -----------------
